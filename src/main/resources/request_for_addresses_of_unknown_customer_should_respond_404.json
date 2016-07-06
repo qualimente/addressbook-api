@@ -4,7 +4,7 @@
       "request": {
         "path": "/customers/does-not-exist/addressbook/addresses",
         "method": "GET",
-        "destination": "http://localhost:65360",
+        "destination": "addressbook.qualimente.com",
         "query": null,
         "body": ""
       },

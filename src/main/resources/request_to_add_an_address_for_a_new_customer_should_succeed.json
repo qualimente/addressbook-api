@@ -4,7 +4,7 @@
       "request": {
         "path": "/customers/c92294cb-c609-4af7-9761-538b19c9761e/addressbook/addresses",
         "method": "GET",
-        "destination": "http://localhost:65360",
+        "destination": "addressbook.qualimente.com",
         "query": null,
         "body": ""
       },
@@ -18,7 +18,7 @@
       "request": {
         "path": "/customers/c92294cb-c609-4af7-9761-538b19c9761e/addressbook/addresses",
         "method": "POST",
-        "destination": "http://localhost:65360",
+        "destination": "addressbook.qualimente.com",
         "query": null,
         "body": "{\"id\":null,\"line1\":\"42 Douglas Adams Way\",\"line2\":null,\"city\":\"Phoenix\",\"postalCode\":\"85042\",\"state\":\"AZ\",\"country\":\"US\"}"
       },
